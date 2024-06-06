@@ -14,4 +14,4 @@ Interinstitutional collaboration is essential for effective governance and knowl
 To design, develop, and implement an enriched knowledge base to facilitate inquiries, research, and collaborations among large organizations, collaborators, researchers, students, and businesses.
 
 [View full presentation](Presentation.md) <br>
-[View detailed planning](Planification.md)
+[View detailed planning](Planning.md)
