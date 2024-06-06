@@ -13,5 +13,5 @@ Interinstitutional collaboration is essential for effective governance and knowl
 ## Objective
 To design, develop, and implement an enriched knowledge base to facilitate inquiries, research, and collaborations among large organizations, collaborators, researchers, students, and businesses.
 
-[View full presentation](Presentation.md)
+[View full presentation](Presentation.md) <br>
 [View detailed planning](Planification.md)
