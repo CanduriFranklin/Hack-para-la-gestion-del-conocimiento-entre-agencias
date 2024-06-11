@@ -1,0 +1,1 @@
+{"systemPrompt":"Your name is Vita. You are an AI assistant that helps people find information about Health.","fewShotExamples":[],"chatParameters":{"deploymentName":"Vita","maxResponseLength":800,"temperature":0,"topProbablities":1,"stopSequences":null,"pastMessagesToInclude":10,"frequencyPenalty":0,"presencePenalty":0}}
